@@ -1,2 +1,2 @@
 # Satish-Coin
-This is a crypto currency based on Ethreum BlockChain
+This is a crypto currency based on Ethreum BlockChain Technology. A cryptocurrency, crypto, or cryptocurrency is a decentralized digital/virtual money, based on blockchain technology which acts as a medium of exchange and is stored, created, and processed outside of banks, or government. Since it’s a digital asset there is no physical form of cryptocurrency rather, they are a set of data that, are secured by cryptography. Cryptocurrency maintains its own-record-keeping computerized database which is highly secured by cryptography and it uses blockchain (an online ledger and transition log) technology. Blockchain is the world’s most reliable, secure record-keeping technology used by cryptocurrencies. 
